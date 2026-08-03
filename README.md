@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**nicolliramos-lang/nicolliramos-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +8,8 @@ Here are some ideas to get you started:
 - ​🤓​ gosto de ler 
 - ​😶​ sou estudante
 - ​🫥​tenho 15 anos 
-- 
+![](https://media1.tenor.com/m/HMvPUy4QbzoAAAAC/cat-hello.gif)
+
 - 
 - 
 -
